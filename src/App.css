@@ -1,0 +1,84 @@
+.custom-icon {
+  position: absolute;
+  font-size: 0.8em; 
+  margin-top: 6px; 
+  margin-left: 0.3rem;
+}
+
+thead {
+  background-color: #3498db;
+}
+
+tbody {
+  background-color: #f2f2f2; 
+}
+.main-screen{
+  background-color: rgba(244, 207, 207, 0.561);
+  width: 100%;
+}
+
+.table-cell {
+  font-size: 12px; 
+}
+
+tbody tr {
+  height: 10px; 
+}
+
+
+
+
+.custom-file-upload {
+  display: inline-block;
+  padding: 2px 5px;
+  font-size: 10px;
+  cursor: pointer;
+  border: 1px solid gray;
+  background-color: transparent;
+  color: black;
+}
+
+.accept-btn{
+  padding: 2px 5px;
+  font-size: 10px;
+  cursor: pointer;
+  border: 1px solid rgb(200, 194, 194);
+  background-color: rgb(197, 202, 221);
+  color: gray;
+}
+
+.refresh-btn{
+  padding: 2px 5px;
+  font-size: 10px;
+  cursor: pointer;
+  border: 1px solid rgb(200, 194, 194);
+  background-color: blue;
+  color: white;
+
+}
+
+.custom-file-upload:hover {
+  background-color: lightgray;
+}
+
+.import-icon {
+  margin-right: 5px;
+}
+
+.active-link{
+  background-color: lightsteelblue !important;
+  border: 2px #3498db !important;
+  color: black !important; 
+  font-size: 12px !important;
+}
+
+.link{
+  color: black !important; 
+  font-size: 12px !important;
+
+}
+
+.main-container{
+  width: 100vw;
+  background-color: rgb(113, 96, 102);
+}
